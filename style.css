@@ -167,3 +167,8 @@ nav a{
     background-image: url(./assets/promo_iphone_tradein__bugw15ka691e_large.jpg);
     color: #1d1d1f;
 }
+
+#carouselExampleIndicators{
+    width: 80vw;
+    margin: auto;
+}
